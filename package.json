@@ -90,7 +90,7 @@
     "@types/minimatch": "^3.0.3",
     "@types/path-is-inside": "^1.0.0",
     "@types/whatwg-url": "^6.4.0",
-    "browserslist": "^4.9.1",
+    "browserslist": "^4.21.3",
     "browserslist-useragent": "^3.0.2",
     "builtin-modules": "^3.1.0",
     "camelcase": "^5.3.1",
