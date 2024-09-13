@@ -96,7 +96,7 @@
     "camelcase": "^5.3.1",
     "caniuse-api": "^3.0.0",
     "caniuse-lite": "^1.0.30001033",
-    "chokidar": "^3.0.0",
+    "chokidar": "^4.0.0",
     "command-line-args": "^5.0.2",
     "command-line-usage": "^6.1.0",
     "debounce": "^1.2.0",
