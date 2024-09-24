@@ -117,7 +117,7 @@
     "path-is-inside": "^1.0.2",
     "polyfills-loader": "^1.7.4",
     "portfinder": "^1.0.21",
-    "rollup": "^2.7.2",
+    "rollup": "^3.29.5",
     "strip-ansi": "^5.2.0",
     "systemjs": "^6.3.1",
     "tslib": "^1.11.1",
