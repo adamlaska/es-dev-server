@@ -105,7 +105,7 @@
     "get-stream": "^5.1.0",
     "is-stream": "^2.0.0",
     "isbinaryfile": "^4.0.2",
-    "koa": "^2.7.0",
+    "koa": "^2.15.4",
     "koa-compress": "^3.0.0",
     "koa-etag": "^3.0.0",
     "koa-static": "^5.0.0",
