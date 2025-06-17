@@ -111,7 +111,7 @@
     "koa-static": "^5.0.0",
     "lru-cache": "^5.1.1",
     "mime-types": "^2.1.27",
-    "minimatch": "^3.0.4",
+    "minimatch": "^10.0.2",
     "open": "^7.0.3",
     "parse5": "^5.1.1",
     "path-is-inside": "^1.0.2",
